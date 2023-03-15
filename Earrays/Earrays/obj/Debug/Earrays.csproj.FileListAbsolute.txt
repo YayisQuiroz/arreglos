@@ -1,0 +1,7 @@
+C:\Users\Nieves\source\repos\Earrays\Earrays\bin\Debug\Earrays.exe.config
+C:\Users\Nieves\source\repos\Earrays\Earrays\bin\Debug\Earrays.exe
+C:\Users\Nieves\source\repos\Earrays\Earrays\bin\Debug\Earrays.pdb
+C:\Users\Nieves\source\repos\Earrays\Earrays\obj\Debug\Earrays.csprojAssemblyReference.cache
+C:\Users\Nieves\source\repos\Earrays\Earrays\obj\Debug\Earrays.csproj.CoreCompileInputs.cache
+C:\Users\Nieves\source\repos\Earrays\Earrays\obj\Debug\Earrays.exe
+C:\Users\Nieves\source\repos\Earrays\Earrays\obj\Debug\Earrays.pdb
