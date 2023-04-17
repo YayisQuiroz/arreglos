@@ -1,0 +1,11 @@
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\obj\Debug\arrays_vb.vbprojAssemblyReference.cache
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\obj\Debug\arrays_vb.Resources.resources
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\obj\Debug\arrays_vb.vbproj.GenerateResource.cache
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\obj\Debug\arrays_vb.vbproj.CoreCompileInputs.cache
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\bin\Debug\arrays_vb.exe.config
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\bin\Debug\arrays_vb.exe
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\bin\Debug\arrays_vb.pdb
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\bin\Debug\arrays_vb.xml
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\obj\Debug\arrays_vb.exe
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\obj\Debug\arrays_vb.xml
+C:\Users\Nieves\source\repos\arrays_vb\arrays_vb\obj\Debug\arrays_vb.pdb
